@@ -1,4 +1,4 @@
-.vscode\*.*
+.vscode/*.*
 bootstrap
 main
 main.zip
