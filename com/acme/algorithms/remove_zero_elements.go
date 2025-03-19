@@ -131,7 +131,7 @@ func removeV2(nums []int, val int) int {
 					// Move the item's value to remove at the end of the array.
 					nums[j] = nums[i]
 
-					// Move the last item's value at the begining of the array.
+					// Move the last item's value at the beginning of the array.
 					nums[i] = tempValue
 
 					break
